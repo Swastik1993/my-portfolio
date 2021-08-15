@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -17,9 +17,35 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: "python"
+  icon_pack: "custom"
+  name: "Python"
+- description: 90%
+  icon: "java"
+  icon_pack: "custom"
+  name: "Java"
+- icon: "C"
+  icon_pack: "custom"
+  name: "C"
+- icon: "C++"
+  icon_pack: "custom"
+  name: "C++"
+- icon: "go"
+  icon_pack: "custom"
+  name: "go"
+- description: 90%
+  icon: python
   icon_pack: fab
-  name: R
+  name: Python
+- description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: 90%
+  icon: python
+  icon_pack: fab
+  name: Python
+
 - description: 100%
   icon: chart-line
   icon_pack: fas
