@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mail@swastikbiswas.me
+    link: mailto:mail@swastikbiswas.me
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/swastik_biswas
