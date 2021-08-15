@@ -28,7 +28,7 @@ abstract: In this paper we have proposed a new entropy based fuzzy clustering
   clinical brain MR image volumes. Its results are found to be superior while
   comparing with some of the state-of-the-art algorithms.
 draft: false
-featured: false
+featured: true
 tags:
   - biomedical MRI
   - brain
@@ -52,7 +52,7 @@ categories:
 slides: ""
 url_pdf: ""
 image:
-  caption: "Image credit: [**Brain MR Image segmentation**](www.google.com)"
+  caption: "Image credit: [**Brain MR Image segmentation**](/media/featured.jpg)"
   focal_point: ""
   preview_only: true
   filename: featured.jpg
