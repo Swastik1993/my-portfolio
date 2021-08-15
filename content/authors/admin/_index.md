@@ -1,6 +1,6 @@
 ---
 title: Swastik Biswas
-role: Lead Data Engineer @ BRIDGEi2i Analytics Solutions
+role: Data Scientist @ Technology Labs
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -10,22 +10,22 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mail@swastikbiswas.me
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/swastik_biswas
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Swastik1993
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/swastikbiswas/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: BRIDGEi2i Analytics Solutions
+    url: https://bridgei2i.com/
 education:
   courses:
     - course: MEng in Artificial Intelligence
@@ -34,7 +34,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: mail@swastikbiswas.me
 superuser: true
 highlight_name: false
 ---
