@@ -47,4 +47,4 @@ In the field of machine learning I have mostly worked on deep learning algorithm
 
 I believe in the ikigai philosophy and am always eager to solve a challenging problem or to analyze anomalous data behavior.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "content/assets/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
