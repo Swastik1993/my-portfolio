@@ -52,7 +52,7 @@ categories:
 slides: ""
 url_pdf: ""
 image:
-  caption: "Image credit: [**Brain MR Image segmentation**](/media/featured.jpg)"
+  caption: "Image credit: [**Brain MR Image segmentation**](featured.jpg)"
   focal_point: ""
   preview_only: true
   filename: featured.jpg
