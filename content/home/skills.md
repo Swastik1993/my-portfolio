@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
+widget: featurette
 
 # Activate this widget? true/false
 active: true
@@ -10,11 +10,36 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 25
 
 title: Hugo Academic Theme Demo
 subtitle:
 
+feature:
+- description: Languages
+  icon: "python"
+  icon_pack: "custom"
+  name: "Python"
+  icon: "java"
+  icon_pack: "custom"
+  name: "Java"
+- description: Databases
+  icon: "c"
+  icon_pack: "custom"
+  name: "C"
+  icon: "cpp"
+  icon_pack: "custom"
+  name: "C++"
+  icon: "go_logo"
+  icon_pack: "custom"
+  name: "GO"
+- description: Frameworks
+  icon: "html"
+  icon_pack: "custom"
+  name: "HTML"
+  icon: "css"
+  icon_pack: "custom"
+  name: "CSS"
 ---
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.

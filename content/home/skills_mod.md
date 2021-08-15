@@ -40,7 +40,6 @@ feature:
 - icon: "js"
   icon_pack: "custom"
   name: "JS"
-
 - description: 100%
   icon: chart-line
   icon_pack: fas
