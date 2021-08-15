@@ -1,7 +1,7 @@
 ---
 title: Swastik Biswas
 role: Data Scientist @ Technology Labs
-avatar_filename: avatar.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
