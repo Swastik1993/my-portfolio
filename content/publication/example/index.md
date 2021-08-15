@@ -39,14 +39,8 @@ tags:
 categories:
   - Image segmentation
   - Clustering algorithms
-  - Entropy
+  - Shannon Entropy
   - Noise measurement
-  - Partitioning algorithms
-  - Image segmentation
-  - Clustering algorithms
-  - Entropy
-  - Noise measurement
-  - Uncertainty
   - Gaussian density function
   - Fuzzy C-Means clustering
 slides: ""
@@ -56,9 +50,8 @@ image:
   focal_point: ""
   preview_only: true
   filename: featured.jpg
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: Using Fuzzy C-means algorithm with Shannon entropy for segmenting noisy
+  brain MR images
 url_dataset: ""
 url_project: ""
 url_source: ""
