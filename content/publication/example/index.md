@@ -60,9 +60,9 @@ author_notes: []
 publication: In *2019 Fifteenth International Conference on Information
   Processing (ICInPro)*
 projects: []
-date: 2021-08-15T11:03:42.315Z
+date: 2019-12-20T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-05-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
