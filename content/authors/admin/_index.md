@@ -29,12 +29,12 @@ organizations:
     url: https://bridgei2i.com/
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: ME in Computer Science & Engineering
+      institution: Jadavpur University
+      year: 2017
+    - course: BE in Computer Science & Engineering
+      institution: Visvesvaraya Technological University
+      year: 2015
 email: mail@swastikbiswas.me
 superuser: true
 highlight_name: false
