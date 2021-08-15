@@ -31,10 +31,10 @@ education:
   courses:
     - course: ME in Computer Science & Engineering
       institution: Jadavpur University
-      year: 2017
+      year: 2019
     - course: BE in Computer Science & Engineering
       institution: Visvesvaraya Technological University
-      year: 2015
+      year: 2016
 email: mail@swastikbiswas.me
 superuser: true
 highlight_name: false
