@@ -16,35 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: "python"
+- icon: "python"
   icon_pack: "custom"
   name: "Python"
-- description: 90%
-  icon: "java"
+- icon: "java"
   icon_pack: "custom"
   name: "Java"
 - icon: "c"
   icon_pack: "custom"
   name: "C"
-- icon: "C++"
+- icon: "cpp"
   icon_pack: "custom"
-  name: "cpp"
+  name: "C++"
 - icon: "go"
   icon_pack: "custom"
-  name: "go"
-- description: 90%
-  icon: "html"
-  icon_pack: fab
-  name: "html"
-- description: 90%
-  icon: "css"
-  icon_pack: fab
-  name: "css"
-- description: 90%
-  icon: "js"
-  icon_pack: fab
-  name: "js"
+  name: "GO"
+- icon: "html"
+  icon_pack: "custom"
+  name: "HTML"
+- icon: "css"
+  icon_pack: "custom"
+  name: "CSS"
+- icon: "js"
+  icon_pack: "custom"
+  name: "JS"
 
 - description: 100%
   icon: chart-line
