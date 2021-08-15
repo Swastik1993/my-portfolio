@@ -24,27 +24,27 @@ feature:
   icon: "java"
   icon_pack: "custom"
   name: "Java"
-- icon: "C"
+- icon: "c"
   icon_pack: "custom"
   name: "C"
 - icon: "C++"
   icon_pack: "custom"
-  name: "C++"
+  name: "cpp"
 - icon: "go"
   icon_pack: "custom"
   name: "go"
 - description: 90%
-  icon: python
+  icon: "html"
   icon_pack: fab
-  name: Python
+  name: "html"
 - description: 90%
-  icon: python
+  icon: "css"
   icon_pack: fab
-  name: Python
+  name: "css"
 - description: 90%
-  icon: python
+  icon: "js"
   icon_pack: fab
-  name: Python
+  name: "js"
 
 - description: 100%
   icon: chart-line
