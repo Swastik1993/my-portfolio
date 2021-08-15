@@ -10,12 +10,12 @@ subtitle:
 
 feature:
 - description: Languages
-  - icon: "python"
-    icon_pack: "custom"
-    name: "Python"
-  - icon: "java"
-    icon_pack: "custom"
-    name: "Java"
+- icon: "python"
+  icon_pack: "custom"
+  name: "Python"
+- icon: "java"
+  icon_pack: "custom"
+  name: "Java"
 - description: Databases
   icon: "c"
   icon_pack: "custom"
