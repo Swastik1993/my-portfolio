@@ -12,17 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Hugo Academic Theme Demo
+title: Technical Skills
 subtitle:
 
 feature:
 - description: Languages
-  icon: "python"
-  icon_pack: "custom"
-  name: "Python"
-  icon: "java"
-  icon_pack: "custom"
-  name: "Java"
+  {{< icon name="python" pack="custom" >}} Python
+  {{< icon name="java" pack="custom" >}} Java
+  {{< icon name="c" pack="custom" >}} C
 - description: Databases
   icon: "c"
   icon_pack: "custom"
@@ -40,13 +37,14 @@ feature:
   icon: "css"
   icon_pack: "custom"
   name: "CSS"
+
 ---
 
 Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
 
-- Languages: {{< icon name="python" pack="custom" >}} Python , {{< icon name="java" pack="custom" >}} Java , {{< icon name="c" pack="custom" >}} C , 
+- Languages: {{< icon name="python" pack="custom" >}} Python , {{< icon name="java" pack="custom" >}} Java , {{< icon name="c" pack="custom" >}} C
 - Databases: {{< icon name="cpp" pack="custom" >}} C++ , {{< icon name="go" pack="custom" >}} GO , 
 - Frameworks: {{< icon name="html" pack="custom" >}} HTML
 - Tools: {{< icon name="css" pack="custom" >}} CSS , {{< icon name="js" pack="custom" >}} JS
