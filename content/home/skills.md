@@ -3,16 +3,16 @@ widget: blank
 
 widget_id: skills new
 
-weight: 28
+weight: 900
 
 ---
 <div class="container">
   <div class="header">
-    <h1>Technical Skills</h1>
+    <h1 style="margin-left: 17rem">Technical Skills</h1>
     <br>
   </div>
   <div class="wrapper clearfix">
-    <div class="nav" style="margin-left: -75px; margin-right: -75px">
+    <div class="nav" style="margin-left: -10em; margin-right: -15em">
       <ul>
         <li>
           <p>Language: </p>
@@ -67,4 +67,3 @@ weight: 28
     </div>
   </div>
 </div>
-

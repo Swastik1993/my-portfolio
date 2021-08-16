@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,20 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Entropy based Fuzzy clustering algorithm for MR image segmentation
+    company: Jadavpur University
+    company_url: 'http://www.jaduniv.edu.in/'
+    company_logo: ju
+    location: Kolkata, India
+    date_start: '2018-09-01'
+    date_end: '2019-03-01'
     description: |2-
         Responsibilities include:
-        
         * Analysing
         * Modelling
         * Deploying
         
+  - title: Gaussian Energy-based function for detection of moving objects in videos
+    company: University X
+    company: Jadavpur University
+    company_url: 'http://www.jaduniv.edu.in/'
+    company_logo: ju
+    location: Kolkata, India
+    date_start: '2019-02-01'
+    date_end: '2019-05-01'
+    description: Taught electronic engineering and researched semiconductor physics.
+  
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''

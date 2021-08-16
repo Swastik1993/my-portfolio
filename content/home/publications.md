@@ -7,12 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
 title: Recent Publications
 subtitle: ''
 
 content:
+  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+  taxonomy: tags
+  # Choose how many tags you would like to display (0 = all tags)
+  count: 20
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
@@ -27,7 +31,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List

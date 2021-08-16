@@ -9,7 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 512 512"
+   width="102.3716mm"
+   height="144.49777mm"
+   viewBox="0 0 362.73401 511.99998"
    id="svg3476"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -33,6 +35,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -76,6 +80,18 @@
          id="polygon2997"
          points="256,433.399 256,386.153 255.801,386.206 205.227,372.55 201.994,336.333 177.419,336.333 156.409,336.333 162.771,407.634 255.791,433.457 "
          style="fill:#ebebeb" />
+      <path
+         id="path2999"
+         d="m 160,0 55,0 0,23 -32,0 0,23 32,0 0,23 -55,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3001"
+         d="m 226,0 55,0 0,20 -32,0 0,4 32,0 0,46 -55,0 0,-21 32,0 0,-4 -32,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3003"
+         d="m 292,0 55,0 0,20 -32,0 0,4 32,0 0,46 -55,0 0,-21 32,0 0,-4 -32,0 z"
+         inkscape:connector-curvature="0" />
       <polygon
          id="polygon3005"
          points="311.761,313.627 306.49,372.521 255.843,386.191 255.843,433.435 348.937,407.634 349.62,399.962 360.291,280.411 361.399,268.217 369.597,176.305 255.843,176.305 255.843,221.716 319.831,221.716 315.699,268.217 255.843,268.217 255.843,313.627 "

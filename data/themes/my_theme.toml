@@ -1,0 +1,25 @@
+# Theme metadata
+name = "minimal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#3700B3"
+
+# Menu
+menu_primary = "#3700B3"
+menu_text = "rgba(223,223,223,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
+
+# Backgrounds
+background = "hsla(0, 0%, 89%, 1)"
+home_section_odd = "hsla(0, 0%, 89%, 1)"
+home_section_even = "hsla(0, 0%, 100%, 1)"
+
+font = "rose"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

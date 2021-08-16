@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 1000
 
 title: Technical Skills
 subtitle:
@@ -19,35 +19,118 @@ feature:
 - icon: "python"
   icon_pack: "custom"
   name: "Python"
+
 - icon: "java"
   icon_pack: "custom"
   name: "Java"
+
 - icon: "c"
   icon_pack: "custom"
   name: "C"
+
 - icon: "cpp"
   icon_pack: "custom"
   name: "C++"
+
 - icon: "go"
   icon_pack: "custom"
   name: "GO"
+
 - icon: "html"
   icon_pack: "custom"
   name: "HTML"
+
 - icon: "css"
   icon_pack: "custom"
   name: "CSS"
+
 - icon: "js"
   icon_pack: "custom"
   name: "JS"
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
+- icon: "mysql"
+  icon_pack: "custom"
+  name: "MySQL"
+
+- icon: "postgres"
+  icon_pack: "custom"
+  name: "PostgreSQL"
+
+- icon: "neo4j"
+  icon_pack: "custom"
+  name: "Neo4J"
+
+- icon: "redis"
+  icon_pack: "custom"
+  name: "Redis"
+
+- icon: "hadoop"
+  icon_pack: "custom"
+  name: "Hadoop"
+
+- icon: "hive"
+  icon_pack: "custom"
+  name: "Hive"
+
+- icon: "flask"
+  icon_pack: "custom"
+  name: "Flask"
+
+- icon: "fastapi"
+  icon_pack: "custom"
+  name: "FastAPI"
+
+- icon: "tensorflow"
+  icon_pack: "custom"
+  name: "Tensorflow"
+
+- icon: "pytorch"
+  icon_pack: "custom"
+  name: "Pytorch"
+
+- icon: "solr"
+  icon_pack: "custom"
+  name: "Solr"
+
+- icon: "elasticsearch"
+  icon_pack: "custom"
+  name: "Elasticsearch"
+
+- icon: "spring"
+  icon_pack: "custom"
+  name: "Spring"
+
+- icon: "express"
+  icon_pack: "custom"
+  name: "Express"
+
+- icon: "bootstrap"
+  icon_pack: "custom"
+  name: "Bootstrap"
+
+- icon: "git"
+  icon_pack: "custom"
+  name: "Git"
+
+- icon: "docker"
+  icon_pack: "custom"
+  name: "Docker"
+
+- icon: "kubernetes"
+  icon_pack: "custom"
+  name: "Kubernetes"
+
+- icon: "talend"
+  icon_pack: "custom"
+  name: "Talend"
+
+- icon: "jenkins"
+  icon_pack: "custom"
+  name: "Jenkins"
+
+- icon: "jira"
+  icon_pack: "custom"
+  name: "Jira"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

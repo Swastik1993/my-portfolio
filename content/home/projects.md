@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 45
 
 title: Projects
 subtitle: ''
@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Image segmentation
+    tag: Image segmentation
   - name: Deep Learning
     tag: Deep Learning
+  - name: Energy functions
+    tag: Energy functions
+  - name: Image segmentation
+    tag: Image segmentation
   - name: Other
     tag: Demo
 
