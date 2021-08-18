@@ -13,10 +13,6 @@ title: Recent Publications
 subtitle: ''
 
 content:
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy: tags
-  # Choose how many tags you would like to display (0 = all tags)
-  count: 20
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
@@ -42,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+You can click here for [filtering publications](./publication/).
 {{% /callout %}}

@@ -44,7 +44,7 @@ categories:
   - Gaussian density function
   - Fuzzy C-Means clustering
 slides: ""
-url_pdf: ""
+url_pdf: "icinpro.pdf"
 image:
   caption: "Image credit: [**Brain MR Image segmentation**](featured.jpg)"
   focal_point: ""
@@ -59,7 +59,7 @@ url_video: ""
 author_notes: []
 publication: In *2019 Fifteenth International Conference on Information
   Processing (ICInPro)*
-projects: []
+projects: ["masters_thesis"]
 date: 2019-12-20T00:00:00.000Z
 url_slides: ""
 publishDate: 2020-05-14T00:00:00.000Z

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Entropy based Fuzzy clustering algorithm for MR image segmentation
-    company: Jadavpur University
-    company_url: 'http://www.jaduniv.edu.in/'
+  - title: Lead Data Engineer
+    company: BRIDGEi2i Analytics Solutions
+    company_url: 'https://bridgei2i.com/'
     company_logo: ju
     location: Kolkata, India
     date_start: '2018-09-01'
@@ -35,23 +35,23 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Gaussian Energy-based function for detection of moving objects in videos
+  - title: Data Engineer II
     company: University X
-    company: Jadavpur University
-    company_url: 'http://www.jaduniv.edu.in/'
+    company: BRIDGEi2i Analytics Solutions
+    company_url: 'https://bridgei2i.com/'
     company_logo: ju
     location: Kolkata, India
     date_start: '2019-02-01'
     date_end: '2019-05-01'
     description: Taught electronic engineering and researched semiconductor physics.
   
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Intern
+    company: ITC Infotech
+    company_url: 'https://www.itcinfotech.com/'
+    company_logo: itc
+    location: Bangalore
+    date_start: '2015-07-01'
+    date_end: '2015-08-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

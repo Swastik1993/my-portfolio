@@ -33,10 +33,10 @@ content:
     tag: Deep Learning
   - name: Energy functions
     tag: Energy functions
-  - name: Image segmentation
-    tag: Image segmentation
+  - name: Object detection
+    tag: Object detection
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

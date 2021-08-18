@@ -4,7 +4,7 @@ summary: Classified entities from real-time videos and presented a comparative s
 
 tags:
 - Deep Learning
-- Object Detection
+- Object detection
 - Image Classification
 - Computer Vision
 - Convolutional Neural Networks

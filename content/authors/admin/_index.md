@@ -2,12 +2,13 @@
 title: Swastik Biswas
 role: Data Scientist @ Technology Labs
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Computer Vision, Natural Language Processing, Bioinformatics, Human-Computer Interaction and Robotics.
 interests:
   - Computer Vision
   - Natural Language Processing
-  - BioInformatics
+  - Bioinformatics
+  - Human-Computer Interaction
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,4 +48,5 @@ In the field of machine learning I have mostly worked on deep learning algorithm
 
 I believe in the ikigai philosophy and am always eager to solve a challenging problem or to analyze anomalous data behavior.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
+Have a look at my {{< icon name="file" pack="fas" >}}{{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
+ and {{< icon name="cogs" pack="fas" >}} {{< staticref "skills/technical/" "newtab" >}}technical skills{{< /staticref >}}
