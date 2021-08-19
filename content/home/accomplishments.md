@@ -23,30 +23,33 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/4WDHAMZWVYPC
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  date_start: "2021-02-20"
+  description: "This specialization is focused on designing NLP applications that perform question-answering and sentiment analysis, creating tools to translate languages and summarize text, and even build chatbots."
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: Natural Language Processing Specialization
+  url: "https://www.coursera.org/specializations/natural-language-processing"
+
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/PAP9JB77Z6N3
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2020-08-02"
+  description: "This specialization focuses on building and training neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Deep Learning Specialization
+  url: "https://www.coursera.org/specializations/deep-learning"
+
+- certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/PSQ5B9FVALG3
+  date_end: ""
+  date_start: "2020-04-29"
+  description: "This professional certificate incorporates hands-on labs using Qwiklabs platform. Projects incorporate Google Cloud Platform products used within Qwiklabs. It covers practical hands-on experience with the concepts explained throughout the modules."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: "Preparing for Google Cloud Certification: Cloud Data Engineer Specialization"
+  url: "https://www.coursera.org/professional-certificates/gcp-data-engineering"
+
 
 design:
   columns: '2' 

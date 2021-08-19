@@ -27,8 +27,8 @@ experience:
     company_url: 'http://www.jaduniv.edu.in/view_department.php?deptid=59'
     company_logo: ju
     location: Kolkata, India
-    date_start: '2018-10-01'
-    date_end: '2019-09-01'
+    date_start: '2019-03-01'
+    date_end: '2019-10-01'
     description: |2-
         * Face Recognition using G2DFLD algorithm
         * Gaussian Energy-based function for detection of moving objects in videos
@@ -41,8 +41,8 @@ experience:
     date_start: '2018-08-01'
     date_end: '2019-05-01'
     description: |2-
-        * Pattern Recognition & Image Processing _(Instructor: [Prof. JK Sing](http://www.jaduniv.edu.in/profile.php?uid=670))_ [CSE/T/414]
-        * Computer Graphics Lab _(Instructor: [Prof. JK Sing](http://www.jaduniv.edu.in/profile.php?uid=670) & [Prof. Subhadip Basu](http://www.jaduniv.edu.in/profile.php?uid=683))_ [CSE/S/311]
+        * Pattern Recognition & Image Processing (_Instructor: [Prof. JK Sing](http://www.jaduniv.edu.in/profile.php?uid=670)_) [CSE/T/414]
+        * Computer Graphics Lab (_Instructor: [Prof. JK Sing](http://www.jaduniv.edu.in/profile.php?uid=670) & [Prof. Subhadip Basu](http://www.jaduniv.edu.in/profile.php?uid=683)_) [CSE/S/311]
   
 design:
   columns: '2'
