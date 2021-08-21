@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Portfolio of Swastik Biswas # Website name
+title: Swastik Biswas # Website name
 baseurl: 'https://www.swastikbiswas.me/' # Website URL
 copyright: '© {year} Swastik Biswas' # Footer text, e.g. '© {year} Me'
 

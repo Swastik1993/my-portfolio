@@ -52,3 +52,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+{{% callout note %}}
+View the complete list of projects [here](./project/).
+{{% /callout %}}

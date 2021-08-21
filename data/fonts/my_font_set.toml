@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=WindSong:wght@400;500&family=Sora+Mono&family=Sora:wght@400;700"
+
+# Font families
+heading_font = "Sora"
+body_font = "Sora"
+nav_font = "WindSong"
+mono_font = "Sora Mono"

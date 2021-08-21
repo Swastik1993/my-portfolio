@@ -45,9 +45,9 @@ experience:
     date_end: '2021-03-31'
     description: |2-
       Responsibilities:
-        * Analysed time series logistics data for detecting anomalies across different (key performance indicators) KPIs along with determining their causal relationships.
-        * Built ingestion pipelines and detected change points for identifying level shift in the time series data for HR domain.
-        * Upading more soon...
+        * Analyzed time series logistics data for detecting anomalies across 15 (key performance indicators) KPIs, along with determining their causal relationships and a bi-weekly data refresh of around 2GB.
+        * Built ingestion pipelines for handling monthly data refresh of roughly 25GB and detected change points for identifying a level shift in the time series of HR data. 
+        * Detected anomalies and forecasted trends within a given window frame on market sales data having 28 KPIs and monthly data refresh of approximately 3GB.
       
       Awards:
         * Won the Team Award for outstanding performance in 2nd Quarter of financial year 2020.
