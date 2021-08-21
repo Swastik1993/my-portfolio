@@ -30,9 +30,10 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: |2-
-      Responsibilities:
-        * Updating more soon...
-      
+      Projects:
+        * Building data federated platform with the scope of providing integrated customer recommendation experience. BERT fine-tuned on a custom dataset is used for recommendation (validation accuracy ~91%). Production platform handles data at a scale of over 10TB daily with the scope of increase in the future.
+        * Building labeled property graph for representing contextual information across various documents. Fuzzy searching algorithms with graph neural networks is used for achieving better properties on node values. 
+
       Awards:
         * Nominated as an AI Ambassador for the financial year of 2021.
         
@@ -44,10 +45,11 @@ experience:
     date_start: '2020-04-01'
     date_end: '2021-03-31'
     description: |2-
-      Responsibilities:
+      Projects:
         * Analyzed time series logistics data for detecting anomalies across 15 (key performance indicators) KPIs, along with determining their causal relationships and a bi-weekly data refresh of around 2GB.
         * Built ingestion pipelines for handling monthly data refresh of roughly 25GB and detected change points for identifying a level shift in the time series of HR data. 
         * Detected anomalies and forecasted trends within a given window frame on market sales data having 28 KPIs and monthly data refresh of approximately 3GB.
+        * Designed and developed the question answering module along with summarization using BERT for a [COVID-19 response dashboard](http://13.92.197.252/) on top of the [COVID-19 Open Research Dataset](https://www.semanticscholar.org/cord19/download/).
       
       Awards:
         * Won the Team Award for outstanding performance in 2nd Quarter of financial year 2020.
@@ -61,7 +63,7 @@ experience:
     date_start: '2019-07-01'
     date_end: '2020-03-31'
     description: |2-
-      Responsibilities:
+      Projects:
         * Worked on building data ingestion pipelines and performed Topic Modeling along with Sentiment Analysis for categorizing text data.
         * Built a proof-of-concept(POC) for tracking people's movement on live streaming videos.
       
@@ -76,12 +78,13 @@ experience:
     date_start: '2015-07-01'
     date_end: '2015-08-31'
     description: |2-
-      Responsibilities:
+      Projects:
         * Developed a real-time video synthesis application for extracting textual information for Automated Driver Assistance Systems.
 
 design:
   columns: '2'
 ---
+
 <style>
   .dark .card .section-subheading a {
     color: #BBDEFB !important;

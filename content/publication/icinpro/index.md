@@ -53,7 +53,7 @@ image:
 summary: Using Fuzzy C-means algorithm with Shannon entropy for segmenting noisy
   brain MR images
 url_dataset: ""
-url_project: ""
+url_project: "project/masters_thesis/"
 url_source: ""
 url_video: ""
 author_notes: []
