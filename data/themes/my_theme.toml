@@ -21,5 +21,6 @@ home_section_even = "hsla(0, 0%, 100%, 1)"
 font = "rose"
 
 [dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  link = "#BBDEFB"
+  link_hover = "#BBDEFB"
+  

@@ -82,3 +82,8 @@ experience:
 design:
   columns: '2'
 ---
+<style>
+  .dark .card .section-subheading a {
+    color: #BBDEFB !important;
+  }
+</style>
