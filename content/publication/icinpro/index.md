@@ -66,7 +66,7 @@ publishDate: 2020-05-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -74,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including code, math, and images.
+Supplementary notes can be added here, including code, math, and images. -->
