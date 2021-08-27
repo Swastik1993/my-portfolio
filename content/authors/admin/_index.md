@@ -51,5 +51,5 @@ I believe in the ikigai philosophy and am always eager to solve a challenging pr
 
 __I am still in the process of building/updating my site. Why don't you visit me again after a few days and I hope to have completed it by then.__ Thanks for visiting! <img src="uploads/namaste.svg" class="shadowed" style="display: inline-block; margin:1px; vertical-align:middle; width:30px; height:30px; bottom:1px; z-index:-1; transform:scale(.9); box-shadow: 0px 3px 3px -3px #202020">
 
-Have a look at my {{< icon name="file" pack="fas" >}}{{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
+You can have a look at my {{< icon name="file" pack="fas" >}}{{< staticref "uploads/Swastik_Biswas_CV.pdf" "newtab" >}}CV{{< /staticref >}}
  and {{< icon name="cogs" pack="fas" >}} {{< staticref "skills/technical/" "newtab" >}}technical skills{{< /staticref >}}
