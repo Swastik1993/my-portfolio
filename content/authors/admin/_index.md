@@ -1,14 +1,13 @@
 ---
 title: Swastik Biswas
-role: Data Scientist @ Technology Labs
+role: Data Scientist @ Accenture AI Hub
 avatar_filename: avatar.jpg
 bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Computer Vision, Natural Language Processing, Bioinformatics, Human-Computer Interaction and Robotics.
 interests:
   - Computer Vision
   - Natural Language Processing
+  - Healthcare
   - Bioinformatics
-  - Human-Computer Interaction
-  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/swastikbiswas/
 organizations:
-  - name: BRIDGEi2i Analytics Solutions
+  - name: Accenture Applied Intelligence
     url: https://bridgei2i.com/
 education:
   courses:
