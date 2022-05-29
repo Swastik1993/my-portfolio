@@ -6,7 +6,7 @@ bio: Enthusiastic, self-motivated and a results-oriented person with research in
 interests:
   - Computer Vision
   - Natural Language Processing
-  - Healthcare
+  - Medical Health
   - Bioinformatics
 social:
   - icon: envelope
