@@ -2,8 +2,9 @@
 title: Swastik Biswas
 role: Data Scientist @ Accenture AI Hub
 avatar_filename: avatar.jpg
-bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Computer Vision, Natural Language Processing, Bioinformatics, Human-Computer Interaction and Robotics.
+bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Machine Learning, Computer Vision, Natural Language Processing, Medical Health and Bioinformatics.
 interests:
+  - Machine Learning
   - Computer Vision
   - Natural Language Processing
   - Medical Health
@@ -40,7 +41,7 @@ superuser: true
 highlight_name: false
 ---
 
-Hi! I am an enthusiastic, self-motivated and a results-oriented Data/ML engineer with 2+ years of experience in image processing, NLP, data mining and model deployment.
+Hi! I am an enthusiastic, self-motivated and a results-oriented Data/ML engineer with 2+ years of experience in machine learning, image processing, NLP, data mining and model deployment.
 
 Research projects in the fields of image processing and natural language understanding are something that is always exciting to me. I am also equally interested to explore and learn more about the healthcare and bioinformatics domain.
 I have experience working in quite a few NLP, NLU, Image Processing, and Computer Vision projects. 

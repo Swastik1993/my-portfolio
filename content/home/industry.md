@@ -22,19 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data/ML Engineering Lead
+    company: Accenture Applied Intelligence
+    company_url: 'https://accenture.com/'
+    company_logo: accenture
+    location: Bangalore, India
+    date_start: '2022-05-01'
+    date_end: ''
+    description: |2-
+      Projects:
+        * Building data federated platform with the scope of providing integrated customer recommendation experience. BERT fine-tuned on a custom dataset is used for recommendation (validation accuracy ~91%). Production platform handles data at a scale of over 10TB daily with the scope of increase in the future.
+        * Building a Data Quality Engine for indentifying data issues at the source level and using different machine learning algorithms to suggest possible remedies. Multiple ML models and NLP approaches are being used in this project. 
+
   - title: Lead Data/ML Engineer
     company: BRIDGEi2i Analytics Solutions
     company_url: 'https://bridgei2i.com/'
     company_logo: bridgei2i
     location: Bangalore, India
     date_start: '2021-04-01'
-    date_end: ''
+    date_end: '2022-04-30'
     description: |2-
       Projects:
         * Building data federated platform with the scope of providing integrated customer recommendation experience. BERT fine-tuned on a custom dataset is used for recommendation (validation accuracy ~91%). Production platform handles data at a scale of over 10TB daily with the scope of increase in the future.
         * Building labeled property graph for representing contextual information across various documents. Fuzzy searching algorithms with graph neural networks is used for achieving better properties on node values. 
 
       Awards:
+        * Won the Annual Team award for outstanding performance in the financial year 2021.
+        * Won the SCaLA Annual Award for the financial year 2021.
+        * Won the Quarterly Team Award for outstanding performance in 2nd Quarter of financial year 2021.
+        * Won the Evangelist Award for innovation in annual innovation forum for financial year 2021.
         * Nominated as an AI Ambassador for the financial year of 2021.
         
   - title: Data Engineer II
@@ -52,8 +68,8 @@ experience:
         * Designed and developed the question answering module along with summarization using BERT for a [COVID-19 response dashboard](http://13.92.197.252/) on top of the [COVID-19 Open Research Dataset](https://www.semanticscholar.org/cord19/download/).
       
       Awards:
-        * Won the Team Award for outstanding performance in 2nd Quarter of financial year 2020.
-        * Won the Individual award for Above and Beyond performance in 4th Quarter of financial year 2020.
+        * Won the Quarterly Team Award for outstanding performance in 2nd Quarter of financial year 2020.
+        * Won the Annual Individual award for Above and Beyond performance in the financial year 2020.
 
   - title: Business Analyst
     company: BRIDGEi2i Analytics Solutions
@@ -68,7 +84,7 @@ experience:
         * Built a proof-of-concept(POC) for tracking people's movement on live streaming videos.
       
       Awards:
-        * Won the Team Award for outstanding performance in 2nd Quarter of financial year 2019.
+        * Won the Quarterly Team Award for outstanding performance in 2nd Quarter of financial year 2019.
   
   - title: Intern
     company: ITC Infotech
