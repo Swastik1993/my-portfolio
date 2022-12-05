@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: ML Engineering Associate Manager
+  - title: ML Engineering Associate Manager
     company: Accenture Applied Intelligence
     company_url: 'https://accenture.com/'
     company_logo: accenture
