@@ -1,14 +1,14 @@
 ---
 title: Swastik Biswas
-role: Data Scientist @ Accenture AI Hub
+role: ML Engineering Associate Manager @ Accenture AI Hub
 avatar_filename: avatar.jpg
-bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Machine Learning, Computer Vision, Natural Language Processing, Medical Health and Bioinformatics.
+bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Machine Learning, Computer Vision, Natural Language Processing, Algorithms and Medical Health.
 interests:
   - Machine Learning
   - Computer Vision
   - Natural Language Processing
+  - Algorithms
   - Medical Health
-  - Bioinformatics
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/swastikbiswas/
 organizations:
   - name: Accenture Applied Intelligence
-    url: https://bridgei2i.com/
+    url: https://www.accenture.com/in-en/services/ai-artificial-intelligence-index
 education:
   courses:
     - course: ME in Computer Science & Engineering

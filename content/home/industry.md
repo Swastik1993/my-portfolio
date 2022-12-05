@@ -22,19 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data/ML Engineering Lead
+- title: ML Engineering Associate Manager
     company: Accenture Applied Intelligence
     company_url: 'https://accenture.com/'
     company_logo: accenture
     location: Bangalore, India
-    date_start: '2022-05-01'
+    date_start: '2022-12-01'
     date_end: ''
     description: |2-
       Projects:
         * Building data federated platform with the scope of providing integrated customer recommendation experience. BERT fine-tuned on a custom dataset is used for recommendation (validation accuracy ~91%). Production platform handles data at a scale of over 10TB daily with the scope of increase in the future.
         * Building a Data Quality Engine for indentifying data issues at the source level and using different machine learning algorithms to suggest possible remedies. Multiple ML models and NLP approaches are being used in this project. 
 
-  - title: Lead Data/ML Engineer
+  - title: ML Engineering Lead
+    company: Accenture Applied Intelligence
+    company_url: 'https://accenture.com/'
+    company_logo: accenture
+    location: Bangalore, India
+    date_start: '2022-05-01'
+    date_end: '2022-11-30'
+    description: |2-
+      Projects:
+        * Building data federated platform with the scope of providing integrated customer recommendation experience. BERT fine-tuned on a custom dataset is used for recommendation (validation accuracy ~91%). Production platform handles data at a scale of over 10TB daily with the scope of increase in the future.
+        * Building a Data Quality Engine for indentifying data issues at the source level and using different machine learning algorithms to suggest possible remedies. Multiple ML models and NLP approaches are being used in this project. 
+
+  - title: Lead ML Engineer
     company: BRIDGEi2i Analytics Solutions
     company_url: 'https://bridgei2i.com/'
     company_logo: bridgei2i
