@@ -1,6 +1,6 @@
 ---
 title: Swastik Biswas
-role: ML Engineering Associate Manager @ Accenture AI Hub
+role: ML Engineering Associate Manager
 avatar_filename: avatar.jpg
 bio: Enthusiastic, self-motivated and a results-oriented person with research interests broadly in Machine Learning, Computer Vision, Natural Language Processing, Algorithms and Medical Health.
 interests:
